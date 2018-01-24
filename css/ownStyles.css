@@ -1,0 +1,17 @@
+@font-face {
+    font-family: Asap-Bold;
+    src: url("../fonts/asap/Asap-Bold.ttf");
+}
+.font1{
+font-family:Asap-Blod;
+}
+body{
+background-image: url("../images/background.jpg");
+background-color: #cccccc;
+}
+.fondoColor{
+background-color:#1565c0;
+}
+.fondoColorSide{
+background-color:#2196f3;
+}
